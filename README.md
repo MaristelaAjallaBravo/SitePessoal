@@ -11,7 +11,7 @@
     </header>
 
     <section>
-        <img src="foto.maristela" alt="Maristela">
+        <img src="https://github.com/MaristelaAjallaBravo/SitePessoal/blob/main/foto.maristela.jpg" alt="Maristela">
         <p>
             Olá,
         </p>

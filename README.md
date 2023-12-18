@@ -1,5 +1,5 @@
 # Informações de trabalhos e projetos
-<!DOCTYPE html>
+
 <html lang="por">
 <head>
     <meta charset="UTF-8">
@@ -42,5 +42,4 @@ Bacharel em Comunicação Social - habilitação Jornalismo. Pós-Graduação em
         <p>&copy; 2023 Maristela Ajalla Bravo. Todos os direitos reservados.</p>
     </footer>
 
-</body>
-</html>
+

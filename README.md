@@ -26,7 +26,6 @@ Também atuo como freelancer na produção de textos e edição de revista para 
 Bacharel em Comunicação Social - habilitação Jornalismo. Pós-Graduação em Criação Visual, Multimídia, Cinema, e Design Gráfico. 
         </p>
 <br>
-<br>
         <div class="social-links">
             <a href="https://www.etcnoticias.com.br/" target="_blank"><strong>Projeto ETC Notícias </strong></a>
             <a href="https://www.clippings.me/users/ajallamaristela" target="_blank"><strong>Trabalhos Impressos</strong></a>

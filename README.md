@@ -10,7 +10,7 @@
           </header>
 
     <section>
-        <img src="foto.maristela.jpg" alt="Maristela">
+        <img src="http://etcnoticias.com.br/wp-content/uploads/2023/12/foto.maristela.jpg" alt="Maristela">
         <p>
             Olá,
         </p>

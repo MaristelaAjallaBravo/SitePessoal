@@ -11,7 +11,7 @@
     </header>
 
     <section>
-        <img src="sua_foto.jpg" alt="Sua Foto">
+        <img src="foto.maristela" alt="Maristela">
         <p>
             Olá,
         </p>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Maristela - Site Pessoal</title>
+    <title></title>
         <header>
         <h1>MARISTELA AJALLA BRAVO</h1>
           </header>

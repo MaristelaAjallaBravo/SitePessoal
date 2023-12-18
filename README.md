@@ -7,8 +7,7 @@
     <title>Maristela - Site Pessoal</title>
         <header>
         <h1>MARISTELA AJALLA BRAVO</h1>
-        <p>Olá</p>
-    </header>
+          </header>
 
     <section>
         <img src="https://github.com/MaristelaAjallaBravo/SitePessoal/blob/main/foto.maristela.jpg" alt="Maristela">

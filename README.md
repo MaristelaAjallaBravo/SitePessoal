@@ -28,7 +28,7 @@ Bacharel em Comunicação Social - habilitação Jornalismo. Pós-Graduação em
 <br>
         <div class="social-links">
             <a href="https://www.etcnoticias.com.br/" target="_blank"><strong>Projeto ETC Notícias </strong></a>
-            <a href="https://brcomunica.net.br/)r/" target="_blank"><strong>Projeto Educação Inclusiva </strong></a>
+            <a href="https://brcomunica.net.br/" target="_blank"><strong>Projeto Educação Inclusiva </strong></a>
             <a href="https://www.clippings.me/users/ajallamaristela" target="_blank"><strong>Trabalhos Impressos</strong></a>
             <a href="https://www.linkedin.com/in/maristelaajallabravo/" target="_blank"><strong>LinkedIn</strong></a>
             <a href="https://trailblazer.me/id/ajallabravo/" target="_blank"><strong>Trailhead</strong></a>
